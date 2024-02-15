@@ -1,6 +1,6 @@
 # StudioMaSys
 > ### 项目梗概
-    >> StudioMaSys是基于编程猫工作室的管理系统
+>> StudioMaSys是基于编程猫工作室的管理系统
 > ### 可实现功能
 >> 回复评论  
 删除作品  
